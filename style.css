@@ -1,0 +1,77 @@
+body {
+	color: #43084a;;
+	background-color: #fdffff;
+	font-weight: lighter;
+	font-family: Arial;
+
+margin: 0 auto;
+background-image: url(https://s-media-cache-ak0.pinimg.com/originals/d8/bc/8d/d8bc8dd0a043b9a5ef9c158b8a6672e8.jpg);
+opacity: 9.0;
+}
+#nest{
+	text-align:center;
+}
+}
+#last{
+	text-align:center;
+}
+}
+#logo{
+	text-align: center;
+}
+
+}
+#pic1{
+	
+}
+
+}
+#languages{
+	margin-left: auto;
+}
+#intp {
+ 	text-align:center;
+ }
+
+#page{
+	margin: center;
+}
+
+nav {
+	width: 400px
+	background: #fff;
+	margin: 0 auto;
+}
+
+nav ul {
+	list-style: none;
+	padding 10px 20px;
+
+
+}
+
+nav ul li {
+	display: inline;
+	padding: 0 20px
+	border-right: 1px solid #777;
+}
+
+nav ul li: last-child{
+	border-right:none;
+
+}
+
+nav li a {
+	text-decoration: none;
+}
+
+nav li{
+	font-size: 20px;
+	display: inline;
+	padding: 0px 10px 0px 10px;
+	font-weight: lighter;
+	border-right: 2px solid #000;
+	
+
+
+}
