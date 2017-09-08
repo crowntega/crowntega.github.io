@@ -24,4 +24,4 @@ Learn more about Stephanie here: [Linkedin](https://www.linkedin.com/in/crownton
 Visit Stephanie's favorite website: http://github.com 
 
 Fun fact about Stephanie: I own a company called Vibrant High Peak; it was founded in 2016
-![Vibrant High Peak Logo](/Desktop/vph.jpg)
+![Vibrant High Peak Logo](images/vph.jpg)
