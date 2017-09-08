@@ -1,19 +1,14 @@
 body {
-<<<<<<< HEAD
-	color: #43084a;;
-=======
 	color: #c83349;
->>>>>>> development
+
 	background-color: #fdffff;
 	font-weight: lighter;
 	font-family: Arial;
 
 margin: 0 auto;
-<<<<<<< HEAD
-background-image: url(https://s-media-cache-ak0.pinimg.com/originals/d8/bc/8d/d8bc8dd0a043b9a5ef9c158b8a6672e8.jpg);
-=======
+
 background-image: url(http://www.powerpointhintergrund.com/uploads/2017/05/flowers-background-wallpaper-2560x1600-flowers-background-20.jpeg);
->>>>>>> development
+
 opacity: 9.0;
 }
 #nest{
@@ -83,8 +78,7 @@ nav li{
 
 
 }
-<<<<<<< HEAD
-=======
+
 
  /* Style inputs with type="text", select elements and textareas */
 input[type=text], select, textarea {
@@ -119,4 +113,4 @@ input[type=submit]:hover {
     background-color: #f2f2f2;
     padding: 20px;
 } 
->>>>>>> development
+
